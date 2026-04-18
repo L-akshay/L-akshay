@@ -1,27 +1,193 @@
-<h1 align="center">Hi 👋, I'm Lakshay Dawar</h1>
-<h3 align="center">Second-year CS student | Full-Stack + AI-Focused Developer | Building real products, not tutorials</h3>
+<!-- Wave Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-akshay&label=Profile%20views&color=0e75b6&style=flat" alt="l-akshay" /> </p>
+[![Header](https://capsule-render.vercel.app/api?type=wave&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Lakshay%20Dawar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Builder&descAlignY=67&descSize=18&animation=fadeIn)](https://lakshayai.netlify.app)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l-akshay" alt="l-akshay" /></a> </p>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C00E3&center=true&vCenter=true&width=900&height=60&lines=✦+SHIPPING+REAL+PRODUCTS+TO+REAL+USERS;✦+100%2C000%2B+PLAY+STORE+DOWNLOADS;✦+FULL-STACK+%2B+APPLIED+AI+ENGINEER;✦+NATIONAL+LEVEL+HACKATHON+TEAM+LEAD;✦+ZERO+TO+PRODUCTION+IN+WEEKS%2C+NOT+MONTHS)](https://github.com/L-akshay)
 
-<p align="left"> <a href="https://twitter.com/lakshayincode" target="blank"><img src="https://img.shields.io/twitter/follow/lakshayincode?logo=twitter&style=for-the-badge" alt="lakshayincode" /></a> </p>
+<!-- Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=l-akshay&style=flat-square&color=7c00e3&label=profile+views)](https://github.com/L-akshay)
+[![GitHub followers](https://img.shields.io/github/followers/l-akshay?style=flat-square&color=a855f7&label=followers)](https://github.com/l-akshay?tab=followers)
+[![Open to Work](https://img.shields.io/badge/open_to-work🤝-00f5ff?style=flat-square)](mailto:lakshaytechai@gmail.com)
+[![Status](https://img.shields.io/badge/status-building_in_public🚀-ff006a?style=flat-square)](https://github.com/L-akshay)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lakshayincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshayincode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshay-dawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay-dawar" height="30" width="40" /></a>
-<a href="https://kaggle.com/lakshay-dawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshay-dawar" height="30" width="40" /></a>
-<a href="https://medium.com/@lakshaycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lakshaycode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zest_tale_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zest_tale_18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshaydawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshaydawar" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-akshay&show_icons=true&locale=en&layout=compact" alt="l-akshay" /></p>
+## 🧬 System.profile()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l-akshay&show_icons=true&locale=en" alt="l-akshay" /></p>
+```json
+lakshay = {
+  "role":        "Full-Stack AI Engineer",
+  "city":        "Delhi, India 🇮🇳",
+  "focus":       ["Applied AI", "LLM Integration", "Full-Stack Products"],
+  "stack":       ["Next.js", "FastAPI", "Firebase", "Gemini API", "Node.js"],
+  "superpower":  "zero-to-production in weeks, with or without prior experience",
+  "obsession":   "AI that is the product, not just a feature",
+  "online":      "always — especially when the deadline is tomorrow 🌙",
+  "endgame":     "build products that make real people's lives better",
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-akshay&" alt="l-akshay" /></p>
+---
+
+## 🚀 What I've Shipped
+
+### 📱 [VoiceToNotes Android](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN) — **100,000+ Downloads**
+> `Android` `Firebase Cloud Functions` `Google Speech API` `WebSockets` `Jetpack Compose`
+
+- Built all **5 home screen widget providers** — Notes, Calendar, Record, Journal, Quick Actions
+- Contributed to **real-time WebSocket speech transcription backend** on Firebase Cloud Functions
+- Live on Play Store with 100K+ downloads and active users
+
+---
+
+### 🌊 [FloatChat](https://float-two.vercel.app) — Smart India Hackathon 2025 · National Level
+> `Python` `Flask REST` `React` `CNN` `Deep Learning` `Docker`
+
+- **Led a 6-member team** at the national level — owned architecture, ML inference, backend, and frontend
+- Built **CNN + Hybrid CNN pipelines** for ARGO float ocean sensor data across 3 oceanic regions
+- End-to-end delivery under hackathon pressure
+
+---
+
+### 🔐 Traverse VPN Landing
+> `Next.js` `TinaCMS` `Firebase` `CI/CD` `SEO`
+
+- Full marketing site with headless CMS, SEO across **11 pages**, automated deployment pipeline
+
+---
+
+### 🤖 Self OS — Google DeepMind × Kaggle Hackathon
+> `Gemini API` `React` `Prompt Engineering` `Generative AI`
+
+- AI productivity system with **multi-turn prompt architecture** and adaptive feedback loops via Gemini API
+
+---
+
+## 🤖 AI Stack
+
+**🧠 LLMs & APIs**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+**⚡ Applied AI**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C00E3?style=for-the-badge&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-6366F1?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN_Deep_Learning-FF006A?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-A855F7?style=for-the-badge&logoColor=white)
+
+---
+
+## 🛠️ Full Tech Stack
+
+**⚛️ Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&theme=dark&perline=8)](https://github.com/L-akshay)
+
+**🔧 Backend & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,firebase,docker,git&theme=dark&perline=8)](https://github.com/L-akshay)
+
+**🗄️ Databases**
+
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql&theme=dark&perline=8)](https://github.com/L-akshay)
+
+---
+
+## 📊 Numbers Don't Lie
+
+<div align="center">
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l-akshay&theme=2077)](https://github.com/L-akshay)
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l-akshay&theme=2077)](https://github.com/L-akshay)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l-akshay&theme=2077)](https://github.com/L-akshay)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l-akshay&theme=2077)](https://github.com/L-akshay)
+[![Streak](https://github-readme-streak-stats-eight.vercel.app?user=l-akshay&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff)](https://github.com/L-akshay)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=l-akshay&theme=react-dark&bg_color=0d1117&color=a855f7&line=7c00e3&point=ff006a&area=true&hide_border=true&radius=8)](https://github.com/L-akshay)
+
+---
+
+## 🧠 Currently Obsessed With
+
+| | Topic | Why it matters |
+|---|---|---|
+| 🎯 | **Applied LLM Engineering** | Building AI products, not just prompting |
+| ⚡ | **Real-time AI Systems** | WebSockets + streaming inference = magic |
+| 🛠️ | **FastAPI + LLM backends** | The stack for production AI APIs |
+| 🔥 | **Firebase Cloud Functions** | Serverless backend that actually scales |
+| 📱 | **Cross-platform shipping** | Web → Android → whatever the product needs |
+| 🧪 | **Prompt Architecture** | Multi-turn state, few-shot, chain-of-thought |
+| 🚀 | **Zero-to-one product building** | Fastest way to learn anything |
+
+---
+
+## 💭 Hot Takes
+
+> *"Most devs ask AI to write code. I use AI to ship products I'd never have built alone."*
+
+> *"Your tech stack doesn't matter. What you shipped with it does."*
+
+> *"A 2nd-year student with a 100K-download app > a senior with only side projects."*
+
+> *"Waiting until you're 'ready' is how you never ship anything."*
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  unpopular opinion: ownership > expertise.                   ║
+║  I'd rather own a feature end-to-end with 60% knowledge      ║
+║  than touch 10% of something with 100% expertise.            ║
+║                                                              ║
+║  — Lakshay, debugging Firebase rules at 1am                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2025** — Team Lead · National Level
+- 🤖 **Google DeepMind × Kaggle Hackathon 2025** — Self OS with Gemini API
+- 📱 **100,000+ Play Store Downloads** — VoiceToNotes Android
+- 💻 **200+ LeetCode Problems** — Arrays, Trees, Graphs, DP, Binary Search
+- 🎤 **OpenAI Community Meetup, Delhi 2025**
+
+---
+
+## 🌐 Let's Link Up
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshay--dawar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-dawar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakshayai.netlify.app-7C00E3?style=for-the-badge)](https://lakshayai.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-lakshaytechai@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:lakshaytechai@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@lakshayincode-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/lakshayincode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/LakshayDawar)
+[![Play Store](https://img.shields.io/badge/Play_Store-100K%2B_Downloads-3DDC84?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN)
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=fadeIn)](https://github.com/L-akshay)
+
+*building in public · delhi, india · 2026*
+
+</div>
