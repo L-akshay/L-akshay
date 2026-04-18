@@ -1,193 +1,157 @@
-<!-- Wave Header -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=wave&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Lakshay%20Dawar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Builder&descAlignY=67&descSize=18&animation=fadeIn)](https://lakshayai.netlify.app)
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C00E3&center=true&vCenter=true&width=900&height=60&lines=✦+SHIPPING+REAL+PRODUCTS+TO+REAL+USERS;✦+100%2C000%2B+PLAY+STORE+DOWNLOADS;✦+FULL-STACK+%2B+APPLIED+AI+ENGINEER;✦+NATIONAL+LEVEL+HACKATHON+TEAM+LEAD;✦+ZERO+TO+PRODUCTION+IN+WEEKS%2C+NOT+MONTHS)](https://github.com/L-akshay)
-
-<!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=l-akshay&style=flat-square&color=7c00e3&label=profile+views)](https://github.com/L-akshay)
-[![GitHub followers](https://img.shields.io/github/followers/l-akshay?style=flat-square&color=a855f7&label=followers)](https://github.com/l-akshay?tab=followers)
-[![Open to Work](https://img.shields.io/badge/open_to-work🤝-00f5ff?style=flat-square)](mailto:lakshaytechai@gmail.com)
-[![Status](https://img.shields.io/badge/status-building_in_public🚀-ff006a?style=flat-square)](https://github.com/L-akshay)
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Lakshay%20Dawar&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20AI%20Engineer%20·%20Product%20Builder%20·%20Delhi%20India&descAlignY=68&descSize=16&fontAlign=50&descAlign=50)](https://lakshayai.netlify.app)
 
 </div>
 
----
-
-## 🧬 System.profile()
-
-```json
-lakshay = {
-  "role":        "Full-Stack AI Engineer",
-  "city":        "Delhi, India 🇮🇳",
-  "focus":       ["Applied AI", "LLM Integration", "Full-Stack Products"],
-  "stack":       ["Next.js", "FastAPI", "Firebase", "Gemini API", "Node.js"],
-  "superpower":  "zero-to-production in weeks, with or without prior experience",
-  "obsession":   "AI that is the product, not just a feature",
-  "online":      "always — especially when the deadline is tomorrow 🌙",
-  "endgame":     "build products that make real people's lives better",
-}
-```
-
----
-
-## 🚀 What I've Shipped
-
-### 📱 [VoiceToNotes Android](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN) — **100,000+ Downloads**
-> `Android` `Firebase Cloud Functions` `Google Speech API` `WebSockets` `Jetpack Compose`
-
-- Built all **5 home screen widget providers** — Notes, Calendar, Record, Journal, Quick Actions
-- Contributed to **real-time WebSocket speech transcription backend** on Firebase Cloud Functions
-- Live on Play Store with 100K+ downloads and active users
-
----
-
-### 🌊 [FloatChat](https://float-two.vercel.app) — Smart India Hackathon 2025 · National Level
-> `Python` `Flask REST` `React` `CNN` `Deep Learning` `Docker`
-
-- **Led a 6-member team** at the national level — owned architecture, ML inference, backend, and frontend
-- Built **CNN + Hybrid CNN pipelines** for ARGO float ocean sensor data across 3 oceanic regions
-- End-to-end delivery under hackathon pressure
-
----
-
-### 🔐 Traverse VPN Landing
-> `Next.js` `TinaCMS` `Firebase` `CI/CD` `SEO`
-
-- Full marketing site with headless CMS, SEO across **11 pages**, automated deployment pipeline
-
----
-
-### 🤖 Self OS — Google DeepMind × Kaggle Hackathon
-> `Gemini API` `React` `Prompt Engineering` `Generative AI`
-
-- AI productivity system with **multi-turn prompt architecture** and adaptive feedback loops via Gemini API
-
----
-
-## 🤖 AI Stack
-
-**🧠 LLMs & APIs**
-
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-**⚡ Applied AI**
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C00E3?style=for-the-badge&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-6366F1?style=for-the-badge&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN_Deep_Learning-FF006A?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-A855F7?style=for-the-badge&logoColor=white)
-
----
-
-## 🛠️ Full Tech Stack
-
-**⚛️ Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&theme=dark&perline=8)](https://github.com/L-akshay)
-
-**🔧 Backend & Infra**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,firebase,docker,git&theme=dark&perline=8)](https://github.com/L-akshay)
-
-**🗄️ Databases**
-
-[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql&theme=dark&perline=8)](https://github.com/L-akshay)
-
----
-
-## 📊 Numbers Don't Lie
+<br/>
 
 <div align="center">
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l-akshay&theme=2077)](https://github.com/L-akshay)
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l-akshay&theme=2077)](https://github.com/L-akshay)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l-akshay&theme=2077)](https://github.com/L-akshay)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l-akshay&theme=2077)](https://github.com/L-akshay)
-[![Streak](https://github-readme-streak-stats-eight.vercel.app?user=l-akshay&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff)](https://github.com/L-akshay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-dawar)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a56db?style=flat-square&logo=safari&logoColor=white)](https://lakshayai.netlify.app)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshaytechai@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lakshayincode)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/LakshayDawar)&nbsp;
+[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN)
+
+![Profile Views](https://komarev.com/ghpvc/?username=l-akshay&style=flat-square&color=1a56db&label=profile+views)
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=l-akshay&theme=react-dark&bg_color=0d1117&color=a855f7&line=7c00e3&point=ff006a&area=true&hide_border=true&radius=8)](https://github.com/L-akshay)
+<br/>
 
 ---
 
-## 🧠 Currently Obsessed With
+## &nbsp; Who I Am
 
-| | Topic | Why it matters |
-|---|---|---|
-| 🎯 | **Applied LLM Engineering** | Building AI products, not just prompting |
-| ⚡ | **Real-time AI Systems** | WebSockets + streaming inference = magic |
-| 🛠️ | **FastAPI + LLM backends** | The stack for production AI APIs |
-| 🔥 | **Firebase Cloud Functions** | Serverless backend that actually scales |
-| 📱 | **Cross-platform shipping** | Web → Android → whatever the product needs |
-| 🧪 | **Prompt Architecture** | Multi-turn state, few-shot, chain-of-thought |
-| 🚀 | **Zero-to-one product building** | Fastest way to learn anything |
+I'm a **2nd-year CS undergrad** at BPIT Delhi who builds production products — not demos, not tutorials, not "learning projects."
+
+Right now I'm interning at **Web3Task**, where I've contributed to apps with **100,000+ Play Store downloads** and shipped across Android widgets, Next.js frontends, and Firebase Cloud Function backends. I led a **6-member team at Smart India Hackathon 2025** at the national level, owning architecture, ML inference, backend, and frontend simultaneously under competition pressure.
+
+My edge isn't any single technology. It's that I can **take a product from zero to users** — and pick up whatever stack the product needs along the way.
+
+> *In the AI era, the rarest thing isn't someone who knows AI. It's someone who can ship with it.*
+
+<br/>
 
 ---
 
-## 💭 Hot Takes
+## &nbsp; What I've Shipped
 
-> *"Most devs ask AI to write code. I use AI to ship products I'd never have built alone."*
+<br/>
 
-> *"Your tech stack doesn't matter. What you shipped with it does."*
+**[VoiceToNotes Android](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN)** &nbsp;·&nbsp; `100,000+ Play Store Downloads`
 
-> *"A 2nd-year student with a 100K-download app > a senior with only side projects."*
+Contributed to a production Android application at scale. Engineered all 5 home screen widget providers — Notes, Calendar, Record, Journal, Quick Actions — including a real-time voice recording widget backed by a foreground microphone service. Also contributed to the backend speech transcription API built on Firebase Cloud Functions, handling real-time WebSocket audio streaming and chunked processing via Google Speech API with Firestore session management and transactional rate limiting.
 
-> *"Waiting until you're 'ready' is how you never ship anything."*
+`Android` `Jetpack Compose` `Firebase` `Google Speech API` `WebSockets` `Kotlin`
+
+<br/>
+
+**[FloatChat](https://float-two.vercel.app)** &nbsp;·&nbsp; `Smart India Hackathon 2025 — National Level`
+
+Led a 6-member team at the national level. Designed the full system architecture, broke the problem into parallel workstreams, and drove end-to-end integration under competition pressure. Personally built the Flask REST backend, React frontend, and CNN/Hybrid CNN ML inference pipelines for ARGO float ocean sensor data simultaneously.
+
+`Python` `Flask REST` `React` `CNN` `Deep Learning` `Docker` `Vercel`
+
+<br/>
+
+**Traverse VPN Landing** &nbsp;·&nbsp; `Web3Task · Production`
+
+Next.js marketing site with TinaCMS headless CMS integration, automated Firebase CI/CD pipelines, and SEO metadata across 11 pages. Owned the complete deployment pipeline from branch to production.
+
+`Next.js` `TinaCMS` `Firebase` `CI/CD` `SEO`
+
+<br/>
+
+**Self OS** &nbsp;·&nbsp; `Google DeepMind × Kaggle Hackathon`
+
+AI productivity system with journaling, reminders, and adaptive feedback loops. Designed multi-turn prompt architecture for persistent user state tracking across sessions using the Gemini API.
+
+`Gemini API` `React` `Prompt Engineering` `Generative AI`
+
+<br/>
+
+---
+
+## &nbsp; Stack
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  unpopular opinion: ownership > expertise.                   ║
-║  I'd rather own a feature end-to-end with 60% knowledge      ║
-║  than touch 10% of something with 100% expertise.            ║
-║                                                              ║
-║  — Lakshay, debugging Firebase rules at 1am                  ║
-╚══════════════════════════════════════════════════════════════╝
+Language    Python · JavaScript · TypeScript · C++ · Java
+Frontend    React · Next.js · Tailwind CSS · TinaCMS
+Backend     Node.js · Express · FastAPI · Flask · WebSockets · Firebase Cloud Functions
+AI / ML     Gemini API · LLMs · Prompt Engineering · CNN · Hugging Face · NLP
+Database    MongoDB · PostgreSQL · Supabase · Firebase Firestore
+Infra       Docker · GCP · Vercel · Firebase · CI/CD · Linux
 ```
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Smart India Hackathon 2025** — Team Lead · National Level
-- 🤖 **Google DeepMind × Kaggle Hackathon 2025** — Self OS with Gemini API
-- 📱 **100,000+ Play Store Downloads** — VoiceToNotes Android
-- 💻 **200+ LeetCode Problems** — Arrays, Trees, Graphs, DP, Binary Search
-- 🎤 **OpenAI Community Meetup, Delhi 2025**
+<br/>
 
 ---
 
-## 🌐 Let's Link Up
+## &nbsp; Numbers
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshay--dawar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-dawar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakshayai.netlify.app-7C00E3?style=for-the-badge)](https://lakshayai.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-lakshaytechai@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:lakshaytechai@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@lakshayincode-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/lakshayincode)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/LakshayDawar)
-[![Play Store](https://img.shields.io/badge/Play_Store-100K%2B_Downloads-3DDC84?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=ai.voicetonotes.mobileapp&hl=en_IN)
+| 100K+ | 9.1 / 10 | 200+ |
+|:---:|:---:|:---:|
+| **Play Store Downloads** | **GPA** | **LeetCode Problems** |
 
 </div>
 
+<br/>
+
 ---
 
-<!-- Footer Wave -->
+## &nbsp; Stats
+
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=fadeIn)](https://github.com/L-akshay)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=l-akshay&show_icons=true&theme=default&hide_border=true&title_color=1a56db&icon_color=1a56db&text_color=1f2937&bg_color=ffffff&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-akshay&layout=compact&hide_border=true&title_color=1a56db&text_color=1f2937&bg_color=ffffff&langs_count=6" />
 
-*building in public · delhi, india · 2026*
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=l-akshay&hide_border=true&ring=1a56db&fire=1a56db&currStreakLabel=1a56db&sideLabels=1f2937&dates=6b7280&background=ffffff" />
+
+</div>
+
+<br/>
+
+---
+
+## &nbsp; Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=l-akshay&theme=minimal&bg_color=ffffff&color=1a56db&line=1a56db&point=1a56db&area=true&area_color=dbeafe&hide_border=true)](https://github.com/L-akshay)
+
+<br/>
+
+---
+
+## &nbsp; Achievements
+
+```
+2025  Smart India Hackathon     Team Lead · National Level · FloatChat AI Platform
+2025  Google DeepMind × Kaggle  Self OS · Gemini API · Generative AI
+2025  OpenAI Meetup Delhi       Applied AI & Large Language Models
+——    LeetCode                  200+ problems · Arrays, Trees, Graphs, DP, Binary Search
+——    BPIT GGSIPU               BTech CS · GPA 9.1 / 10.0 · 2024–2028
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+*Open to Full-Stack AI Engineer and Product Engineer roles — Delhi NCR and Remote*
+
+**[lakshaytechai@gmail.com](mailto:lakshaytechai@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/lakshay-dawar](https://linkedin.com/in/lakshay-dawar) &nbsp;·&nbsp; [lakshayai.netlify.app](https://lakshayai.netlify.app)**
+
+<br/>
+
+[![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=60&section=footer&text=building%20in%20public%20·%20delhi%20india%20·%202026&fontSize=14&fontColor=94a3b8&fontAlign=50&fontAlignY=50)](https://github.com/L-akshay)
 
 </div>
